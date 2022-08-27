@@ -1,18 +1,2 @@
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
-hello Git
+你好，Git
+我是耿振国！！
